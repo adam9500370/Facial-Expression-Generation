@@ -10,7 +10,7 @@ Our contribution can be listed as followings:
 * Skip (residual) connection in G
 * Some GAN tricks (Dropout + LReLu in G)
 
-Implementation details and qualitative results please refer to our report.
+Implementation details and qualitative results please refer to [our report](https://github.com/adam9500370/facial_expression_generation/report/team3-facial-expression-generation).
 
 
 ## Getting Started
@@ -41,5 +41,6 @@ python run_eval_test.sh
 
 
 ## References
-[1] [StarGAN](https://github.com/yunjey/StarGAN)
+[1] [PyTorch-StarGAN](https://github.com/yunjey/StarGAN)
+
 [2] [Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
